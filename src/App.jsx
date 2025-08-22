@@ -28,7 +28,7 @@ function App() {
       content: {
         type: 'quiz',
         question: 'Когда мы впервые установили парные аватарки на основных аккаунтах?',
-        questionImage: 'photos/pfp3.png',
+        questionImage: '/anniversary_gift/photos/pfp3.png',
         options: [
           { id: 1, text: 'Август 2024', correct: false, reaction: 'Не совсем, но тепло 😋' },
           { id: 2, text: 'Сентябрь 2024', correct: true, reaction: 'А ещё в то же время мы установили мой любимый статус – "I\'m so glad you\'re my partner in crime / As long as you\'re my partner in time"'},
@@ -45,9 +45,9 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/bts1.png',
-          'photos/bts2.png',
-          'photos/bts3.png'
+          '/anniversary_gift/photos/bts1.png',
+          '/anniversary_gift/photos/bts2.png',
+          '/anniversary_gift/photos/bts3.png'
         ],
         caption: 'Beyond Two Souls нельзя назвать нашим первым совместным интерактивным кино, но я определённо его запомню, даже не смотря на эту мерзопакостную жилетку Райана в конце. Спасибо, что давала мне победокурить <3'
       }
@@ -60,13 +60,13 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/lm1.png',          
-          'photos/lm2.png',
-          'photos/lm3.png',
-          'photos/lm4.png',
-          'photos/lm5.png',
-          'photos/lm6.png',
-          'photos/lm7.png'
+          '/anniversary_gift/photos/lm1.png',          
+          '/anniversary_gift/photos/lm2.png',
+          '/anniversary_gift/photos/lm3.png',
+          '/anniversary_gift/photos/lm4.png',
+          '/anniversary_gift/photos/lm5.png',
+          '/anniversary_gift/photos/lm6.png',
+          '/anniversary_gift/photos/lm7.png'
         ],
         caption: 'Ода, тот самый фильм, который побудил тебя почитать про тамплиеров. Спасибо, что показала его мне. Мне нравится с тобой смотреть подобные картины, а потом обсуждать их с тобой. Твоя точка зрения всегда интересна и важна мне, милая 💞'
       }
@@ -79,17 +79,17 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/itt1.png',
-          'photos/itt2.png',
-          'photos/itt3.png',
-          'photos/itt4.png',
-          'photos/itt5.png',
-          'photos/itt11.jpg',
-          'photos/itt6.png',
-          'photos/itt7.png',
-          'photos/itt8.png',
-          'photos/itt9.jpg',
-          'photos/itt10.jpg'
+          '/anniversary_gift/photos/itt1.png',
+          '/anniversary_gift/photos/itt2.png',
+          '/anniversary_gift/photos/itt3.png',
+          '/anniversary_gift/photos/itt4.png',
+          '/anniversary_gift/photos/itt5.png',
+          '/anniversary_gift/photos/itt11.jpg',
+          '/anniversary_gift/photos/itt6.png',
+          '/anniversary_gift/photos/itt7.png',
+          '/anniversary_gift/photos/itt8.png',
+          '/anniversary_gift/photos/itt9.jpg',
+          '/anniversary_gift/photos/itt10.jpg'
         ],
         caption: "Наверное, эта одна из лучших игр, что мы когда-либо проходили вместе. Это одно из моих самых приятных воспоминаний, связанных с тобой, потому что я помню, как у меня болели щёки от улыбки, с каким азартом мы соревновались в минииграх и с каким восторгом мы погружались в эту сказочную атмосферу. Спасибо тебе за это 🫂"
       }
@@ -101,7 +101,7 @@ function App() {
       size: 2,
       content: {
         type: 'audio',
-        audioFile: 'photos/back to friends.mp3',
+        audioFile: '/anniversary_gift/photos/back to friends.mp3',
         title: 'Back To Friends - Sombr',
         description: 'Мне хотелось запечатать этот трек в этой своего рода капсуле воспоминаний. Она стоит того, чтобы её помнить и ассоциировать с тобой 💌'
       }
@@ -113,7 +113,7 @@ function App() {
       size: 3,
       content: {
         type: 'audio',
-        audioFile: 'photos/compass.mp3',
+        audioFile: '/anniversary_gift/photos/compass.mp3',
         title: 'Compass - The Neighbourhood',
         description: 'Я не могла не добавить эту песню сюда. Каждый раз, слушая её, я вспоминаю тебя и твой прекрасный вкус в музыке. You\'re my only compass 💝'
       }
@@ -126,12 +126,12 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/awo2.png',
-          'photos/awo3.png',
-          'photos/awo4.png',
-          'photos/awo5.png',
-          'photos/awo6.png',
-          'photos/awo1.png',
+          '/anniversary_gift/photos/awo2.png',
+          '/anniversary_gift/photos/awo3.png',
+          '/anniversary_gift/photos/awo4.png',
+          '/anniversary_gift/photos/awo5.png',
+          '/anniversary_gift/photos/awo6.png',
+          '/anniversary_gift/photos/awo1.png',
         ],
         caption: 'А это моя самая любимая игра в нашем послужном списке. Я до сих пор с теплотой вспоминаю, как мы проходили эту сюжетку, веселились во время побега, плескались в пруду, шутили про кэйлюков заключённых, а потом плакали от концовки. Спасибо, что подарила мне эти воспоминания'
       }
@@ -144,10 +144,10 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/bs1.jpg',
-          'photos/bs2.jpg',
-          'photos/bs4.png',
-          'photos/bs3.png'
+          '/anniversary_gift/photos/bs1.jpg',
+          '/anniversary_gift/photos/bs2.jpg',
+          '/anniversary_gift/photos/bs4.png',
+          '/anniversary_gift/photos/bs3.png'
         ],
         caption: 'Чуть-чуть понаглею и добавлю своё яркое воспоминание. Пусть мы и не слишком часто их обсуждаем, я всё ещё рада, что ты смотришь эти выпуски со мной. Первым делом, когда я вижу новую серию, я всегда бегу сообщать тебе ☺️'
       }
@@ -160,17 +160,17 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/p1.jpg',
-          'photos/p2.jpg',
-          'photos/p3.jpg',
-          'photos/p4.png',
-          'photos/p5.png',
-          'photos/p6.jpg',
-          'photos/p7.jpg',
-          'photos/p8.jpg',
-          'photos/p9.jpg',
-          'photos/p10.jpg',
-          'photos/p11.jpg'
+          '/anniversary_gift/photos/p1.jpg',
+          '/anniversary_gift/photos/p2.jpg',
+          '/anniversary_gift/photos/p3.jpg',
+          '/anniversary_gift/photos/p4.png',
+          '/anniversary_gift/photos/p5.png',
+          '/anniversary_gift/photos/p6.jpg',
+          '/anniversary_gift/photos/p7.jpg',
+          '/anniversary_gift/photos/p8.jpg',
+          '/anniversary_gift/photos/p9.jpg',
+          '/anniversary_gift/photos/p10.jpg',
+          '/anniversary_gift/photos/p11.jpg'
         ],
         caption: 'Я, конечно же, не могла забыть про пик. Я умру с дуделкой в руках и с тобой в сердце, бро'
       }
@@ -183,7 +183,7 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/rnd1.png'
+          '/anniversary_gift/photos/rnd1.png'
         ]
       }
     },
@@ -195,7 +195,7 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/rnd2.png'
+          '/anniversary_gift/photos/rnd2.png'
         ]
       }
     },
@@ -207,9 +207,9 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/u1.png',
-          'photos/u2.png',
-          'photos/u3.png'
+          '/anniversary_gift/photos/u1.png',
+          '/anniversary_gift/photos/u2.png',
+          '/anniversary_gift/photos/u3.png'
         ],
         caption: 'Нет слов, брат, мы немощи'
       }
@@ -222,12 +222,12 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/arc1.png',
-          'photos/arc2.png',
-          'photos/arc3.png',
-          'photos/arc4.jpg',
-          'photos/arc5.jpg',
-          'photos/arc6.jpg'
+          '/anniversary_gift/photos/arc1.png',
+          '/anniversary_gift/photos/arc2.png',
+          '/anniversary_gift/photos/arc3.png',
+          '/anniversary_gift/photos/arc4.jpg',
+          '/anniversary_gift/photos/arc5.jpg',
+          '/anniversary_gift/photos/arc6.jpg'
         ],
         caption: 'Хотя мы и посмотрели первый сезон раздельно, это не помешало мне насладиться нашим совместным просмотром второго сезона Аркейна. Спасибо, что познакомила меня с этим фандомом, дорогая. Джейвики канон 🥳'
       }
@@ -240,11 +240,11 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/hb4.jpg',
-          'photos/hb1.png',
-          'photos/hb2.png',
-          'photos/hb3.png',
-          'photos/hb5.jpg'
+          '/anniversary_gift/photos/hb4.jpg',
+          '/anniversary_gift/photos/hb1.png',
+          '/anniversary_gift/photos/hb2.png',
+          '/anniversary_gift/photos/hb3.png',
+          '/anniversary_gift/photos/hb5.jpg'
         ],
         caption: 'Ура рыба (АКА самый креативный фандом в котором мы состоим и самый токсичный шип в нашем послужном списке. После этого сериала фраза "Я тебя съем" приобретает новый смысл)'
       }
@@ -257,16 +257,16 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/trend1.jpg',
-          'photos/trend2.jpg',
-          'photos/trend3.jpg',
-          'photos/trend4.jpg',
-          'photos/trend5.jpg',
-          'photos/trend6.jpg',
-          'photos/trend7.jpg',
-          'photos/trend8.jpg',
-          'photos/trend9.jpg',
-          'photos/trend10.jpg'
+          '/anniversary_gift/photos/trend1.jpg',
+          '/anniversary_gift/photos/trend2.jpg',
+          '/anniversary_gift/photos/trend3.jpg',
+          '/anniversary_gift/photos/trend4.jpg',
+          '/anniversary_gift/photos/trend5.jpg',
+          '/anniversary_gift/photos/trend6.jpg',
+          '/anniversary_gift/photos/trend7.jpg',
+          '/anniversary_gift/photos/trend8.jpg',
+          '/anniversary_gift/photos/trend9.jpg',
+          '/anniversary_gift/photos/trend10.jpg'
         ],
         caption: 'Первый тренд на твоём канале с моим участием. Прошёл уже год, а время пролетело как один день 😵‍💫'
       }
@@ -279,7 +279,7 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/ff1.jpg'
+          '/anniversary_gift/photos/ff1.jpg'
         ],
         caption: 'Ночное рандеву помнеш? Хоть у меня с писательством и не шибко срослось и свои работы я считаю не самыми лучшими... Без тебя и тех работ бы никогда не случилось. Я безмерно благодарна тебе за терпение, поддержку и помощь, в которой я нуждалась. Спасибо, лучик 🌟'
       }
@@ -292,14 +292,14 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/sf1.jpg',
-          'photos/sf2.jpg',
-          'photos/sf3.jpg',
-          'photos/sf4.jpg',
-          'photos/sf5.jpg',
-          'photos/sf6.png',
-          'photos/sf7.jpg',
-          'photos/sf8.png'
+          '/anniversary_gift/photos/sf1.jpg',
+          '/anniversary_gift/photos/sf2.jpg',
+          '/anniversary_gift/photos/sf3.jpg',
+          '/anniversary_gift/photos/sf4.jpg',
+          '/anniversary_gift/photos/sf5.jpg',
+          '/anniversary_gift/photos/sf6.png',
+          '/anniversary_gift/photos/sf7.jpg',
+          '/anniversary_gift/photos/sf8.png'
         ],
         caption: 'Сплит Фикшн, который мы ждали с момента прохождения It Takes 2. Хоть мы и были расстроены отсутствием миниигр, игра оставила по себе приятные воспоминания. Атмосфера сказки и футуристического романа, бои с плёткой и вселение в зверей – всё это, безусловно, весело, но знаешь, что делает эту игру по настоящему особенной? Прохождение с тобой. Спасибо за это воспоминание, солнце'
       }
@@ -312,9 +312,9 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/hk1.jpg',
-          'photos/hk2.jpg',
-          'photos/hk3.jpg'
+          '/anniversary_gift/photos/hk1.jpg',
+          '/anniversary_gift/photos/hk2.jpg',
+          '/anniversary_gift/photos/hk3.jpg'
         ],
         caption: 'Наша совместная травма и поставщик стекла. Я рада, что ты мне показала это аниме и каждый раз ждала, чтобы посмотреть со мной новую серию. Глянем продолжение сегодня? ;)'
       }
@@ -327,9 +327,9 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/dos1.jpg',
-          'photos/dos2.jpg',
-          'photos/dos3.jpg'
+          '/anniversary_gift/photos/dos1.jpg',
+          '/anniversary_gift/photos/dos2.jpg',
+          '/anniversary_gift/photos/dos3.jpg'
         ],
         caption: 'Я рада, что ты согласилась со мной поиграть в дивинити, хоть это и был новый жанр для тебя. Я всё ещё думаю, что наши персонажи хорошо смотряться вместе. Когда-нибудь мы обязательно пойдём во второй акт'
       }
@@ -342,9 +342,9 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/kl1.jpg',
-          'photos/kl2.png',
-          'photos/kl4.jpg'
+          '/anniversary_gift/photos/kl1.jpg',
+          '/anniversary_gift/photos/kl2.png',
+          '/anniversary_gift/photos/kl4.jpg'
         ],
         caption: 'Спасибо, что показала мне вольтрона и этих двоих. Смотреть с тобой этот мультсериал было действительно весело и я ценю каждую нашу минутку вместе. Китлэнсы канон'
       }
@@ -357,10 +357,10 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/raft1.png',
-          'photos/raft2.jpg',
-          'photos/raft3.png',
-          'photos/raft4.png'
+          '/anniversary_gift/photos/raft1.png',
+          '/anniversary_gift/photos/raft2.jpg',
+          '/anniversary_gift/photos/raft3.png',
+          '/anniversary_gift/photos/raft4.png'
         ],
         caption: 'Лучшая выживалка, где было всё – и убийства, и расследования, и интриги'
       }
@@ -373,10 +373,10 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          'photos/repo1.jpg',
-          'photos/repo2.jpg',
-          'photos/repo3.jpg',
-          'photos/repo4.jpg'
+          '/anniversary_gift/photos/repo1.jpg',
+          '/anniversary_gift/photos/repo2.jpg',
+          '/anniversary_gift/photos/repo3.jpg',
+          '/anniversary_gift/photos/repo4.jpg'
         ],
         caption: 'Источник наших лучших хихишек и седых волос. Каждая игра с тобой для меня особенна, спасибо, что находишь время на дурачество со мной'
       }
