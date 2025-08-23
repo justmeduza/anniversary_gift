@@ -143,7 +143,7 @@ function App() {
       content: {
         type: 'memory',
         images: [
-          '/https://i.ibb.co/QhrRZcH/bs1.jpg',
+          'https://i.ibb.co/QhrRZcH/bs1.jpg',
           'https://i.ibb.co/Mykjf28m/bs2.jpg',
           'https://i.ibb.co/mVwRmmWt/bs4.jpg',
           'https://i.ibb.co/hRL2MMGr/bs3.png'
